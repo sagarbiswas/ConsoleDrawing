@@ -5,7 +5,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-
 namespace Handler
 {
     public class DrawingHandler : IDraw
@@ -89,7 +88,6 @@ namespace Handler
                     x = x + DefaultLeftPostion,
                     y = y + DefaultTopPostion,
                     c = s.ToCharArray()[0]
-
                 });
 
             }
@@ -110,7 +108,6 @@ namespace Handler
             {
                 for (int j = 0; j < x; j++)
                 {
-
                     WriteAtPosition(drawChar.HasValue ? drawChar.Value.ToString() : "O", i, j);
                 }
             }
