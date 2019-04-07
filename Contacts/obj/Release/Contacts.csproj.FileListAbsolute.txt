@@ -1,0 +1,6 @@
+D:\ProjSample\DrawingProj\Contacts\bin\Release\Contacts.dll
+D:\ProjSample\DrawingProj\Contacts\bin\Release\Contacts.pdb
+D:\ProjSample\DrawingProj\Contacts\obj\Release\Contacts.csprojAssemblyReference.cache
+D:\ProjSample\DrawingProj\Contacts\obj\Release\Contacts.csproj.CoreCompileInputs.cache
+D:\ProjSample\DrawingProj\Contacts\obj\Release\Contacts.dll
+D:\ProjSample\DrawingProj\Contacts\obj\Release\Contacts.pdb

@@ -1,4 +1,4 @@
-This program is open to modify and use for commercial and non-commercial projects.
+﻿This program is open to modify and use for commercial and non-commercial projects.
 Program written in - Visual studio 2017 with .NET 4.0 targe framework. Will work in Visaul studio with .NET 4.0.
 Project need to be seperate in different library for better reprensation and testing application.
 

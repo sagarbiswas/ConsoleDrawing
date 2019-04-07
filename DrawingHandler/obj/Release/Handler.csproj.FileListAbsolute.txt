@@ -1,0 +1,11 @@
+D:\ProjSample\DrawingProj\DrawingHandler\bin\Release\DrawingHandler.dll
+D:\ProjSample\DrawingProj\DrawingHandler\bin\Release\DrawingHandler.pdb
+D:\ProjSample\DrawingProj\DrawingHandler\bin\Release\Common.dll
+D:\ProjSample\DrawingProj\DrawingHandler\bin\Release\Contacts.dll
+D:\ProjSample\DrawingProj\DrawingHandler\bin\Release\Common.pdb
+D:\ProjSample\DrawingProj\DrawingHandler\bin\Release\Contacts.pdb
+D:\ProjSample\DrawingProj\DrawingHandler\obj\Release\Handler.csprojAssemblyReference.cache
+D:\ProjSample\DrawingProj\DrawingHandler\obj\Release\Handler.csproj.CoreCompileInputs.cache
+D:\ProjSample\DrawingProj\DrawingHandler\obj\Release\Handler.csproj.CopyComplete
+D:\ProjSample\DrawingProj\DrawingHandler\obj\Release\DrawingHandler.dll
+D:\ProjSample\DrawingProj\DrawingHandler\obj\Release\DrawingHandler.pdb

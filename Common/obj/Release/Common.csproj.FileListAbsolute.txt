@@ -1,0 +1,5 @@
+D:\ProjSample\DrawingProj\Common\bin\Release\Common.dll
+D:\ProjSample\DrawingProj\Common\bin\Release\Common.pdb
+D:\ProjSample\DrawingProj\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+D:\ProjSample\DrawingProj\Common\obj\Release\Common.dll
+D:\ProjSample\DrawingProj\Common\obj\Release\Common.pdb

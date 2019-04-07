@@ -1,0 +1,17 @@
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\DrawingProj.exe.manifest
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\DrawingProj.application
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\DrawingProj.exe
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\DrawingProj.pdb
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\Common.dll
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\Contacts.dll
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\DrawingHandler.dll
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\Common.pdb
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\Contacts.pdb
+D:\ProjSample\DrawingProj\DrawingProj\bin\Release\DrawingHandler.pdb
+D:\ProjSample\DrawingProj\DrawingProj\obj\Release\DrawingProj.csprojAssemblyReference.cache
+D:\ProjSample\DrawingProj\DrawingProj\obj\Release\DrawingProj.csproj.CoreCompileInputs.cache
+D:\ProjSample\DrawingProj\DrawingProj\obj\Release\DrawingProj.exe.manifest
+D:\ProjSample\DrawingProj\DrawingProj\obj\Release\DrawingProj.application
+D:\ProjSample\DrawingProj\DrawingProj\obj\Release\DrawingProj.csproj.CopyComplete
+D:\ProjSample\DrawingProj\DrawingProj\obj\Release\DrawingProj.exe
+D:\ProjSample\DrawingProj\DrawingProj\obj\Release\DrawingProj.pdb

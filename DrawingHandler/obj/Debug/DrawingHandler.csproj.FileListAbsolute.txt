@@ -1,0 +1,2 @@
+D:\ProjSample\DrawingProj\DrawingHandler\obj\Debug\DrawingHandler.csproj.CoreCompileInputs.cache
+D:\ProjSample\DrawingProj\DrawingHandler\obj\Debug\DrawingHandler.csprojAssemblyReference.cache
